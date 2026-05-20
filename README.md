@@ -2,6 +2,8 @@
 
 This repository contains the notebook workflow used to build the county-level dataset and machine learning models for the research paper, [*Predicting Electric Vehicle Adoption: A Machine Learning Approach Using Socioeconomic and Infrastructure Data*](paper/B5_Electric_Vehicle_Population.pdf).
 
+The paper was published as a conference paper in the `2025 International Conference on ICT for Smart Society (ICISS)` and was presented at `Institut Teknologi Bandung (ITB)`.
+
 The project studies how strongly EV adoption is associated with four county-level factors:
 
 - `GDP`
@@ -115,3 +117,12 @@ To rerun the project, you will need to:
 ## Research Paper
 
 - Paper PDF: [B5_Electric_Vehicle_Population.pdf](paper/B5_Electric_Vehicle_Population.pdf)
+- IEEE Xplore record: <https://ieeexplore.ieee.org/document/11389444/>
+- DOI: <https://doi.org/10.1109/ICISS66954.2025.11389444>
+- ResearchGate entry: <https://www.researchgate.net/publication/401183545_Predicting_Electric_Vehicle_Adoption_A_Machine_Learning_Approach_Using_Socioeconomic_and_Infrastructure_Data>
+
+## Publication Note
+
+This project directly supported the paper *Predicting Electric Vehicle Adoption: A Machine Learning Approach Using Socioeconomic and Infrastructure Data*, published in `September 2025` as part of the `2025 International Conference on ICT for Smart Society (ICISS)`.
+
+The work was presented at ICISS 2025, which was held at `Institut Teknologi Bandung (ITB)` on `September 3-4, 2025`.
